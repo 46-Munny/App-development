@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00BCD4"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Diary"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="28sp"
+        android:textStyle="bold|italic"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lines="15"
+        android:layout_marginTop="30dp"
+        android:hint="What's in your mind...."
+
+        android:layout_marginBottom="20dp"
+        android:background="#FAFAF5F5"
+        android:id="@+id/editId"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:id="@+id/btnId"
+        android:background="#009688"
+        android:textColor="#FAF7F7"
+        />
+
+</LinearLayout>

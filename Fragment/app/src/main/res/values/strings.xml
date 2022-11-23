@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="munny_details">
+        Israt Jahan Munny.\n
+        Age:22\n
+        Mobile no:01709216382
+    </string>
+
+    <string name="maruf_details">
+        Muktadirul hoque maruf.\n
+        Age:18\n
+        Mobile no:01709216382
+    </string>
+</resources>

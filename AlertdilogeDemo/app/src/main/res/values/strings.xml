@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertdilogeDemo</string>
+    <string name="Text">Alert Title</string>
+    <string name="mes_Text">Do you want to exit..</string>
+</resources>

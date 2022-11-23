@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridviewDemo</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+    </string-array>
+</resources>

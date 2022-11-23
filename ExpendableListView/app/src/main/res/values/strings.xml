@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExpendableListView</string>
+    <string-array name="group">
+        <item>CSE</item>
+        <item>ALU</item>
+        <item>JU</item>
+    </string-array>
+    <string-array name="child">
+        <item>
+            Computer Science and Engineering.\n\n
+            It is related with IIT.I am student of this department.It is great opportunity for me to will be a software engineer.
+        </item>
+        <item>
+            Arithmetic and Logic Unit.\n\n
+            It performs arithmetic and logical information.
+        </item>
+        <item>
+            Jahangirnagar University.\n\n
+            I am student of JU.I love my university a lot.The natural beauty of my university just awasome in a word.
+        </item>
+    </string-array>
+</resources>

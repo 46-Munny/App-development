@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListviewAdapter</string>
+    <string-array name="country_name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+    </string-array>
+
+    <string name="bnang_txt">Bangladesh is oooooooojvgvdcgbv</string>
+
+    <string name="ind_txt">India is uoiughjgbmn</string>
+
+
+    <string name="pak_txt">Pakistan is ghgbvjgyujhi</string>
+    <string name="Text">Title</string>
+    <string name="mes_Text">Do you want to exit...</string>
+</resources>
